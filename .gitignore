@@ -1,0 +1,12 @@
+.idea/
+build/
+node_modules/
+vendor/
+*.bak
+*.backup
+*.cache
+*.clover
+*.orig
+.env
+yarn-error.log
+.DS_Store
